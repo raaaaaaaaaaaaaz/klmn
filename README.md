@@ -1,1 +1,1 @@
-# klmn
+worker: node bot.js
